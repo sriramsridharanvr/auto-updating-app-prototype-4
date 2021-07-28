@@ -1,6 +1,6 @@
 {
   "name": "auto-updating-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sriramsridharanvr/auto-updating-electron-app.git"
+    "url": "https://github.com/sriramsridharanvr/auto-updating-app-prototype-4.git"
   }
 }
